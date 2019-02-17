@@ -56,3 +56,5 @@ A list of my bookmarks.
 * [A Brief, Incomplete, and Mostly Wrong History of Programming Languages](http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html) - Hilarious and kinda true
 * [FOAAS](http://foaas.com/) - Fuck Off As A Service
 * [SCIgen](https://pdos.csail.mit.edu/archive/scigen/) - An Automatic CS Paper Generator
+* [Games on GitHub](https://github.com/leereilly/games) - A list of popular/awesome videos games, add-ons, maps, etc. hosted on GitHub
+* [Comics-SmileFreeware](http://users.sch.gr/vasanagno/comics.html) - Classical comic collection digitized, Greek translations mostly

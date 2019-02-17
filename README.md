@@ -49,6 +49,40 @@ A list of my bookmarks.
 * [Approach to extract useful information from binary file](https://reverseengineering.stackexchange.com/questions/15006/approach-to-extract-useful-information-from-binary-file) - An analytic overview of how to analyse unknown binary blobs
 * [Inj3ctor Exploit DB](https://0day.today/) - Exploit database
 
+## Assets
+
+### Images
+
+#### Textures
+
+* [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/) - Nice tilling patterns for backgrounds and wallpapers
+* [textures.com](https://www.textures.com) - Textures for 3D, graphic design and Photoshop!
+* [++skies](https://aokcub.net/cg/incskies/) - High-Resolution Photo-realistic Skies
+* [sIBL Archive](http://www.hdrlabs.com/sibl/archive.html) - Free HDRI sets for smart Image-Based Lighting
+
+#### Tilesets
+
+* [Pokefans Mapping-Tilesets](https://fanart.pokefans.net/tutorials/mapping/tilesets) - A very broad range of Pokemon map tilesets
+* [Rpg Maker VX Resource planet](https://vxresource.wordpress.com/) - An old but nice RPG Maker VX resource blog
+* [Candacis' Resources and Map-Design](https://candacis.wordpress.com) - Another blog with RPG Maker Resources
+
+#### UI
+
+* [Iconfinder](https://www.iconfinder.com) - Lotsa vector icons here
+* [Flaticon](https://www.flaticon.com) - Thousands of free vector icons
+* [Unsplash](https://unsplash.com) - Beautiful, free photos, gifted by the world’s most generous community of photographers.
+* [16colo.rs](https://16colo.rs) - Noice ASCII image archive
+
+### Models
+
+* [McGuire Computer Graphics Archive](https://casual-effects.com/data/) - A concise list of common test 3D models composed by Morgan McGuire
+* [Benedikt Bitterli's Rendering Resources](https://benedikt-bitterli.me/resources/) - 32 different 3D scenes that you can use for free in your rendering research
+
+### Sounds
+
+* [The Mod Archive](http://modarchive.org) - One of the world's largest collections of music modules
+* [Abstraction Music](https://abstractionmusic.bandcamp.com/music) - Ben's OST music
+
 ## Music
 
 *The beep-beep-bop of life*

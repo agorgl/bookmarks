@@ -25,6 +25,14 @@ A list of my bookmarks.
 * [What Every Programmer Absolutely, Positively Needs To Know About Encodings And Character Sets To Work With Text](http://kunststube.net/encoding/) - A more in-depth article about text encodings
 * [UTF-8 Everywhere](http://utf8everywhere.org/) - A document that promotes usage and support of the UTF-8 encoding
 
+### OSDev
+
+*One of the more involved and technical options for a computer hobbyist*
+
+* [littleosbook](https://littleosbook.github.io) - The little book about OS development
+* [cfenollosa/os-tutorial](https://github.com/cfenollosa/os-tutorial) - How to create an OS from scratch
+* [Programming thought experiment: stuck in a room with a PC without an OS.](https://www.reddit.com/r/programming/comments/9x15g/programming_thought_experiment_stuck_in_a_room/c0ewj2c/) - A really nice walkthrough for an impossible mission by /u/kragensitaker
+
 ### LaTeX
 
 *The best typesetting system in the world*

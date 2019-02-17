@@ -110,6 +110,7 @@ A list of my bookmarks.
 
 * [McGuire Computer Graphics Archive](https://casual-effects.com/data/) - A concise list of common test 3D models composed by Morgan McGuire
 * [Benedikt Bitterli's Rendering Resources](https://benedikt-bitterli.me/resources/) - 32 different 3D scenes that you can use for free in your rendering research
+* [ORCA](https://developer.nvidia.com/orca) - A library of professionally-created 3D assets donated to the research community
 
 ### Sounds
 

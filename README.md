@@ -5,8 +5,11 @@ A list of my bookmarks.
 ## Contents
 
 * [Programming](#programming)
+* [Tools and Services](#tools-and-services)
+* [Hacking](#hacking)
+* [Assets](#assets)
+* [Music](#music)
 * [Fun](#fun)
-* [Section](#section)
 
 ## Programming
 

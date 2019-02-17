@@ -33,6 +33,17 @@ A list of my bookmarks.
 * [cfenollosa/os-tutorial](https://github.com/cfenollosa/os-tutorial) - How to create an OS from scratch
 * [Programming thought experiment: stuck in a room with a PC without an OS.](https://www.reddit.com/r/programming/comments/9x15g/programming_thought_experiment_stuck_in_a_room/c0ewj2c/) - A really nice walkthrough for an impossible mission by /u/kragensitaker
 
+### FP
+
+*Functors, Monads and all that Jazz*
+
+* [Monads for the Curious Programmer, Part 1](https://bartoszmilewski.com/2011/01/09/monads-for-the-curious-programmer-part-1/) - Fantastic series on Monads by Bartosz Milewski, Part 1
+* [Monads for the Curious Programmer, Part 2](https://bartoszmilewski.com/2011/03/14/monads-for-the-curious-programmer-part-2/) - Fantastic series on Monads by Bartosz Milewski, Part 2
+* [Monads for the Curious Programmer, Part 3](https://bartoszmilewski.com/2011/03/17/monads-for-the-curious-programmer-part-3/) - Fantastic series on Monads by Bartosz Milewski, Part 3
+* [Category Theory for Programmers: The Preface](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/) - The best and most understandable article on category theory around
+* [hmemcpy/milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf/) - Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source
+* [Functors, Applicatives, And Monads In Pictures](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html) - Nice visual article that explains the mentioned topics
+
 ### DSP
 
 *Theory and practice of Digital Signal Processing*

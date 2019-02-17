@@ -122,6 +122,7 @@ A list of my bookmarks.
 
 * [The Jazz Piano Site](http://www.thejazzpianosite.com) - Fantastic thorough coverage of music theory and harmony with a nice emphasis in Jazz
 * [musictheory.net](https://www.musictheory.net/) - Nicely organized begginer level music lessons
+* [Learn Jazz Standards](https://www.learnjazzstandards.com/index-of-jazz-standards/) - Large selection of common jazz standards to learn
 * [realbook.us](http://www.realbook.us/) - For the chord progression (though not melody) of every single Jazz Standard
 
 ## Fun

@@ -43,6 +43,10 @@ A list of my bookmarks.
 * [Category Theory for Programmers: The Preface](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/) - The best and most understandable article on category theory around
 * [hmemcpy/milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf/) - Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source
 * [Functors, Applicatives, And Monads In Pictures](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html) - Nice visual article that explains the mentioned topics
+* [Alligator Eggs!](http://worrydream.com/AlligatorEggs/) - An accessibly way to teach lambda calculus
+* [jozefg/learn-tt](https://github.com/jozefg/learn-tt) - A collection of resources for learning type theory and type theory adjacent fields.
+* [data61/fp-course](https://github.com/data61/fp-course) - Functional Programming Course
+* [Purely Functional, Declarative Game Logic Using Reactive Programming](https://github.com/leonidas/codeblog/blob/master/2012/2012-01-17-declarative-game-logic-afrp.md) - FRP applied to Game Logic
 
 ### DSP
 

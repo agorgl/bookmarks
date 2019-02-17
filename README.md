@@ -33,6 +33,12 @@ A list of my bookmarks.
 * [cfenollosa/os-tutorial](https://github.com/cfenollosa/os-tutorial) - How to create an OS from scratch
 * [Programming thought experiment: stuck in a room with a PC without an OS.](https://www.reddit.com/r/programming/comments/9x15g/programming_thought_experiment_stuck_in_a_room/c0ewj2c/) - A really nice walkthrough for an impossible mission by /u/kragensitaker
 
+### DSP
+
+*Theory and practice of Digital Signal Processing*
+
+* [Seeing circles, sines, and signals](https://jackschaedler.github.io/circles-sines-signals/) - A compact primer on digital signal processing
+
 ### LaTeX
 
 *The best typesetting system in the world*

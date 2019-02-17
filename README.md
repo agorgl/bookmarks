@@ -49,6 +49,14 @@ A list of my bookmarks.
 * [Approach to extract useful information from binary file](https://reverseengineering.stackexchange.com/questions/15006/approach-to-extract-useful-information-from-binary-file) - An analytic overview of how to analyse unknown binary blobs
 * [Inj3ctor Exploit DB](https://0day.today/) - Exploit database
 
+## Music
+
+*The beep-beep-bop of life*
+
+* [The Jazz Piano Site](http://www.thejazzpianosite.com) - Fantastic thorough coverage of music theory and harmony with a nice emphasis in Jazz
+* [musictheory.net](https://www.musictheory.net/) - Nicely organized begginer level music lessons
+* [realbook.us](http://www.realbook.us/) - For the chord progression (though not melody) of every single Jazz Standard
+
 ## Fun
 
 *Material for the soul*

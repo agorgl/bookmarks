@@ -79,6 +79,7 @@ A list of my bookmarks.
 
 * [Rawsec's CyberSecurity Inventory](https://inventory.rawsec.ml/tools.html) - A nicely organized list of security tools
 * [Approach to extract useful information from binary file](https://reverseengineering.stackexchange.com/questions/15006/approach-to-extract-useful-information-from-binary-file) - An analytic overview of how to analyse unknown binary blobs
+* [Binary Hacking / Memory Corruption by LiveOverflow](https://www.youtube.com/watch?v=iyAyN3GFM7A&list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN) - Short ~10min videos about binary exploitation, from beginner to advanced
 * [Inj3ctor Exploit DB](https://0day.today/) - Exploit database
 
 ## Assets

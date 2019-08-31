@@ -71,6 +71,21 @@ A list of my bookmarks.
 * [Computer Graphics Learning - Computer Graphics](https://cglearn.codelight.eu/pub/computer-graphics) - CGLearn online learning environment, used to teach computer graphics in the University of Tartu
 * [How to Start Learning Computer Graphics Programming](https://erkaman.github.io/posts/beginner_computer_graphics.html) - Great advice post on how to learn graphics programming
 
+### Architecture
+
+*Structuring rendering systems*
+
+* [Data Oriented Design Resources](https://github.com/dbartolini/data-oriented-design/blob/master/README.md) - A curated list of awesome data oriented design resources
+* [A modern rendering architecture · Our Machinery](https://ourmachinery.com/post/a-modern-rendering-architecture/) - Rendering architecture lineout in The Machinery
+* [High-Level Rendering Using Render Graphs · Our Machinery](https://ourmachinery.com/post/high-level-rendering-using-render-graphs/) - A nice peek on implementing render graphs
+* [GitHub - acdemiralp/fg](https://github.com/acdemiralp/fg) - Rendering abstraction which describes a frame as a directed acyclic graph of render tasks and resources
+* [Frame graphs · gfx-rs/gfx Wiki](https://github.com/gfx-rs/gfx/wiki/Frame-graphs) - Links on render/frame graph resources
+* [OpenGL Renderer Design | nlguillemot](https://nlguillemot.wordpress.com/2016/11/18/opengl-renderer-design/) - Designing a renderer using the MVVM pattern
+* [GitHub - amethyst/rendy](https://github.com/amethyst/rendy) - State of the art "build your own engine" kit powered by gfx-hal
+* [Render graphs and Vulkan — a deep dive](http://themaister.net/blog/2017/08/15/render-graphs-and-vulkan-a-deep-dive/) - A render graph implementation close to Vulkan concepts
+* [GitHub - Themaister/Granite](https://github.com/Themaister/Granite) - Source code for the above post's explanation
+* [Adventures in data-oriented design – Part 3c: External References | Molecular Musings](https://blog.molecular-matters.com/2013/07/24/adventures-in-data-oriented-design-part-3c-external-references/) - Explanation on how to use handles to express foreign relations
+
 ## Tools and Services
 
 *(Free) Services that make our lives easier*

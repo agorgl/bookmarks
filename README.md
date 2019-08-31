@@ -5,6 +5,7 @@ A list of my bookmarks.
 ## Contents
 
 * [Programming](#programming)
+* [Computer Graphics](#cg)
 * [Tools and Services](#tools-and-services)
 * [Hacking](#hacking)
 * [Assets](#assets)

@@ -86,6 +86,14 @@ A list of my bookmarks.
 * [GitHub - Themaister/Granite](https://github.com/Themaister/Granite) - Source code for the above post's explanation
 * [Adventures in data-oriented design – Part 3c: External References | Molecular Musings](https://blog.molecular-matters.com/2013/07/24/adventures-in-data-oriented-design-part-3c-external-references/) - Explanation on how to use handles to express foreign relations
 
+### Job Finding
+
+*Entering the Graphics Programming world professionally*
+
+* [Applying for a graphics programming job – Interplay of Light](https://interplayoflight.wordpress.com/2018/07/17/applying-for-a-graphics-programming-job/) - Advice to junior graphics programmers trying to enter the field
+* [Interviewing for your First Job as a Graphics Programmer: a Checklist of Common Interview Questions](https://erkaman.github.io/posts/junior_graphics_programmer_interview.html) - Sum up of common requirements for graphics programming related positions
+* [twitter-mentors | A list of people willing to help/mentor others](https://ishansharma.github.io/twitter-mentors/) - A list of people (along with their tweets) who are willing to help/mentor other programmers
+
 ## Tools and Services
 
 *(Free) Services that make our lives easier*

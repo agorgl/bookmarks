@@ -60,6 +60,17 @@ A list of my bookmarks.
 
 * [Writing a CV in LaTeX](https://texblog.org/2012/04/25/writing-a-cv-in-latex/) - Good practical tutorial on LaTeX
 
+## CG
+
+### General
+
+*Starting and general knowledge*
+
+* [Learn OpenGL, extensive tutorial resource for learning Modern OpenGL](https://learnopengl.com/) - Good practical intro to graphics programming and OpenGL
+* [OpenGL Step by Step - OpenGL Development](http://ogldev.atspace.co.uk/) - A less interesting, similar resource to the above
+* [Computer Graphics Learning - Computer Graphics](https://cglearn.codelight.eu/pub/computer-graphics) - CGLearn online learning environment, used to teach computer graphics in the University of Tartu
+* [How to Start Learning Computer Graphics Programming](https://erkaman.github.io/posts/beginner_computer_graphics.html) - Great advice post on how to learn graphics programming
+
 ## Tools and Services
 
 *(Free) Services that make our lives easier*

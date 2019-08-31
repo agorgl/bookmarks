@@ -87,6 +87,21 @@ A list of my bookmarks.
 * [GitHub - Themaister/Granite](https://github.com/Themaister/Granite) - Source code for the above post's explanation
 * [Adventures in data-oriented design – Part 3c: External References | Molecular Musings](https://blog.molecular-matters.com/2013/07/24/adventures-in-data-oriented-design-part-3c-external-references/) - Explanation on how to use handles to express foreign relations
 
+### Resources
+
+*Sources for readings on CG related subjects*
+
+* [Real-Time Rendering Resources](http://www.realtimerendering.com/) - The main resources page for the book Real-Time Rendering, Fourth Edition
+* [mattdesl/graphics-resources](https://github.com/mattdesl/graphics-resources) - A list of graphic programming resources
+* [gfx_res.md · GitHub](https://gist.github.com/AbstractAlgorithm/d0194f477adf829822ff) - A GitHub gist with links on various CG topics
+* [GitHub - eug/awesome-opengl](https://github.com/eug/awesome-opengl) - A curated list of awesome OpenGL libraries, debuggers and resources
+* [Compilation of 100+ 3D graphics academic papers](https://rivten.github.io/2018/08/03/graphics-article-list.html) - Fantastic list with academic papers on more advanced subjects
+* [joymachine-public/RESEARCH_PAPERS.md](https://github.com/trentpolack/joymachine-public/blob/master/RESEARCH_PAPERS.md) - List of a bunch of rendering whitepapers
+* [andsve.github.io/2014-01-06-realtime-rendering-blogs.md](https://github.com/andsve/andsve.github.io/blob/master/_posts/2014-01-06-realtime-rendering-blogs.md) - A collection of (mostly) rendering and game engine related blogs
+* [Readings on the State of the Art in Rendering – Interplay of Light](https://interplayoflight.wordpress.com/2018/09/30/readings-on-the-state-of-the-art-in-rendering/) - A list of online resources for the state of the art in rendering
+* [john-chapman-graphics](http://john-chapman-graphics.blogspot.com/) - Blog with some interesting samples on some graphics techniques
+* [dontnormalize](https://dontnormalize.me/) - Another blog in the same category as the above
+
 ### Job Finding
 
 *Entering the Graphics Programming world professionally*

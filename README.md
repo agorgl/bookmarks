@@ -113,6 +113,15 @@ A list of my bookmarks.
 * [john-chapman-graphics](http://john-chapman-graphics.blogspot.com/) - Blog with some interesting samples on some graphics techniques
 * [dontnormalize](https://dontnormalize.me/) - Another blog in the same category as the above
 
+### Code
+
+* [raizam/gamedev_libraries](https://github.com/raizam/gamedev_libraries) - A collection of open source C/C++ libraries for gamedev
+* [leomccormack/convhull_3d](https://github.com/leomccormack/convhull_3d) - A header-only C implementation of the Quickhull algorithm for building 3-D Convex Hulls
+* [google/filament](https://github.com/google/filament) - Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS and WASM/WebGL
+* [SaschaWillems/Vulkan-glTF-PBR](https://github.com/SaschaWillems/Vulkan-glTF-PBR) - Physical based rendering with Vulkan using glTF 2.0 models
+* [Hyper3D/hyper3d-envmapgen](https://github.com/Hyper3D/hyper3d-envmapgen) - Pre-filtered mipmapped radiance environment map generator that runs on WebAssembly
+* [aras-p/dod-playground](https://github.com/aras-p/dod-playground) - Sample OOP/ECS/DOD project (C++) for an internal Unity lecture in 2018
+
 ### Job Finding
 
 *Entering the Graphics Programming world professionally*

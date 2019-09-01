@@ -55,6 +55,16 @@ A list of my bookmarks.
 
 * [Seeing circles, sines, and signals](https://jackschaedler.github.io/circles-sines-signals/) - A compact primer on digital signal processing
 
+### Make
+
+*The best build tool ever made*
+
+* [Makefile Tutorial by Example](https://makefiletutorial.com/) - Learn make by example
+* [GitHub - dmoulding/boilermake](https://github.com/dmoulding/boilermake) - A reusable, but flexible, boilerplate Makefile
+* [GitHub - aostruszka/nonrec-make](https://github.com/aostruszka/nonrec-make) - Non-recursive make template for GNU make
+* [GitHub - agottem/weld](https://github.com/agottem/weld) - An implementation of a non-recursive build system on top of GNU Make
+* [hexengraf/magefile](https://github.com/hexengraf/magefile) - A non-recursive, generic makefile for C++ projects
+
 ### LaTeX
 
 *The best typesetting system in the world*

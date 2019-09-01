@@ -69,6 +69,7 @@ A list of my bookmarks.
 
 * [Learn OpenGL, extensive tutorial resource for learning Modern OpenGL](https://learnopengl.com/) - Good practical intro to graphics programming and OpenGL
 * [OpenGL Step by Step - OpenGL Development](http://ogldev.atspace.co.uk/) - A less interesting, similar resource to the above
+* [Learning Modern 3D Graphics Programming](https://paroj.github.io/gltut/) - A nice in depth mini-book for modern 3D Graphics Programming
 * [Computer Graphics Learning - Computer Graphics](https://cglearn.codelight.eu/pub/computer-graphics) - CGLearn online learning environment, used to teach computer graphics in the University of Tartu
 * [How to Start Learning Computer Graphics Programming](https://erkaman.github.io/posts/beginner_computer_graphics.html) - Great advice post on how to learn graphics programming
 

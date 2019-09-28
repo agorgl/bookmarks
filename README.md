@@ -119,6 +119,10 @@ A list of my bookmarks.
 * [john-chapman-graphics](http://john-chapman-graphics.blogspot.com/) - Blog with some interesting samples on some graphics techniques
 * [dontnormalize](https://dontnormalize.me/) - Another blog in the same category as the above
 
+### Ray Tracing
+
+* [Ray Tracing Denoising](https://alain.xyz/blog/raytracing-denoising) - An overview of the state of the art in ray denoising
+
 ### Code
 
 * [raizam/gamedev_libraries](https://github.com/raizam/gamedev_libraries) - A collection of open source C/C++ libraries for gamedev

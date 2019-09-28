@@ -55,6 +55,12 @@ A list of my bookmarks.
 
 * [Seeing circles, sines, and signals](https://jackschaedler.github.io/circles-sines-signals/) - A compact primer on digital signal processing
 
+### C
+
+*The language that keeps this world running*
+
+* [Modern C for C++ Peeps](https://floooh.github.io/2019/09/27/modern-c-for-cpp-peeps.html) - A view on C that I agree to
+
 ### Make
 
 *The best build tool ever made*

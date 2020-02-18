@@ -88,6 +88,7 @@ A list of my bookmarks.
 * [Learning Modern 3D Graphics Programming](https://paroj.github.io/gltut/) - A nice in depth mini-book for modern 3D Graphics Programming
 * [Computer Graphics Learning - Computer Graphics](https://cglearn.codelight.eu/pub/computer-graphics) - CGLearn online learning environment, used to teach computer graphics in the University of Tartu
 * [How to Start Learning Computer Graphics Programming](https://erkaman.github.io/posts/beginner_computer_graphics.html) - Great advice post on how to learn graphics programming
+* [Deriving Lambertian BRDF from first principles](https://sakibsaikia.github.io/graphics/2019/09/10/Deriving-Lambertian-BRDF-From-First-Principles.html) - Discovering how one of the most basic lighting functions work through math
 
 ### Architecture
 
@@ -122,6 +123,10 @@ A list of my bookmarks.
 ### Ray Tracing
 
 * [Ray Tracing Denoising](https://alain.xyz/blog/raytracing-denoising) - An overview of the state of the art in ray denoising
+
+### Techniques
+
+* [Bokeh depth of field in a single pass](http://tuxedolabs.blogspot.com/2018/05/bokeh-depth-of-field-in-single-pass.html) - A nice simple implementation of Bokeh effect
 
 ### Code
 

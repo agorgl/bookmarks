@@ -60,6 +60,7 @@ A list of my bookmarks.
 *The language that keeps this world running*
 
 * [Modern C for C++ Peeps](https://floooh.github.io/2019/09/27/modern-c-for-cpp-peeps.html) - A view on C that I agree to
+* [Project Based Tutorials in C](https://github.com/rby90/project-based-tutorials-in-c) - A list of tutorials that work towards the making of small to large projects in C
 
 ### Make
 

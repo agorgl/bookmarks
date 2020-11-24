@@ -172,6 +172,7 @@ A list of my bookmarks.
 
 *Puts glasses on*
 
+* [Applied Reverse Engineering Series](Applied Reverse Engineering Series) - Series on concepts of reverse engineering, tooling, disassembly or debugging
 * [Rawsec's CyberSecurity Inventory](https://inventory.rawsec.ml/tools.html) - A nicely organized list of security tools
 * [Approach to extract useful information from binary file](https://reverseengineering.stackexchange.com/questions/15006/approach-to-extract-useful-information-from-binary-file) - An analytic overview of how to analyse unknown binary blobs
 * [Reverse engineering my router's firmware with binwalk](https://embeddedbits.org/reverse-engineering-router-firmware-with-binwalk/) - A nice trip through analysing a common router's firmware

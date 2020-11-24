@@ -129,6 +129,8 @@ A list of my bookmarks.
 ### Techniques
 
 * [Bokeh depth of field in a single pass](http://tuxedolabs.blogspot.com/2018/05/bokeh-depth-of-field-in-single-pass.html) - A nice simple implementation of Bokeh effect
+* [Engine Work: Global Illumination with Irradiance Probes](https://monter.handmade.network/blogs/p/7288-engine_work__global_illumination_with_irradiance_probes) - Fantastic writeup of the aforementioned technique
+* [Fast Indirect Illumination Using Two Virtual Spherical Gaussian Lights](https://github.com/yusuketokuyoshi/VSGL) - Rough approximation of virtual point lights (VPLs) with two virtual spherical Gaussian lights (VSGLs) for Real-Time single-bounce indirect illumination
 
 ### Code
 

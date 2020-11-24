@@ -25,6 +25,7 @@ A list of my bookmarks.
 * [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/) - An article about text encoding and unicode
 * [What Every Programmer Absolutely, Positively Needs To Know About Encodings And Character Sets To Work With Text](http://kunststube.net/encoding/) - A more in-depth article about text encodings
 * [UTF-8 Everywhere](http://utf8everywhere.org/) - A document that promotes usage and support of the UTF-8 encoding
+* [User Authentication System.md](https://gist.github.com/siscia/5ed3277551370df3eb8b1063923621d4) - How to create a user authentication system from scratch
 
 ### OSDev
 

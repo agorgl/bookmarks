@@ -149,6 +149,12 @@ A list of my bookmarks.
 * [Interviewing for your First Job as a Graphics Programmer: a Checklist of Common Interview Questions](https://erkaman.github.io/posts/junior_graphics_programmer_interview.html) - Sum up of common requirements for graphics programming related positions
 * [twitter-mentors | A list of people willing to help/mentor others](https://ishansharma.github.io/twitter-mentors/) - A list of people (along with their tweets) who are willing to help/mentor other programmers
 
+## Networking
+
+*Connecting the interwebz*
+
+* [Task-centered iproute2 user guide](https://baturin.org/docs/iproute2/) - Comprehensive but easy to use guide to the ip command
+
 ## Tools and Services
 
 *(Free) Services that make our lives easier*

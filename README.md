@@ -79,6 +79,15 @@ A list of my bookmarks.
 
 * [Writing a CV in LaTeX](https://texblog.org/2012/04/25/writing-a-cv-in-latex/) - Good practical tutorial on LaTeX
 
+## Architecture
+
+### General
+
+*Enterprise system architecture today*
+
+* [The System Design Primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems
+* [Piggy Metrics](https://github.com/sqshq/piggymetrics) - Microservice Architecture with Spring Boot, Spring Cloud and Docker
+
 ## CG
 
 ### General
